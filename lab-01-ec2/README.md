@@ -140,5 +140,8 @@ Go ahead and **Terminate** when done to avoid charges.
 5. Terminated instances are gone permanently — no undo
 
 ---
+## NOTE 
+✅ I have completed this lab and what my AZ instance ran was in (us-east-1b)
+
 
 [Next → Lab 02 — Store Files with S3](../lab-02-s3/README.md)
