@@ -137,9 +137,9 @@ By default S3 blocks everything. Here's how I open it up:
 }
 ```
 
-7. I saved it and visited the website URL
+7. I saved it and visited the website URL http://rod-ccp-lab-2026.s3-website-us-east-1.amazonaws.com/
 
-> ✅ That's a live website running out of S3. No servers, 
+> ✅ Completed. That's a live website running out of S3. No servers, 
 > no maintenance, just a bucket.
 
 ---
