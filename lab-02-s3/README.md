@@ -131,7 +131,7 @@ By default S3 blocks everything. Here's how I open it up:
       "Effect": "Allow",
       "Principal": "*",
       "Action": "s3:GetObject",
-      "Resource": "arn:aws:s3:::YOUR-BUCKET-NAME/*"
+      "Resource": "arn:aws:s3:::rod-ccp-lab-2026/*"
     }
   ]
 }
